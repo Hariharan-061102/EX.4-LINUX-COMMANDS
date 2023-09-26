@@ -269,5 +269,12 @@ wget https://example.com/file.zip
 Output:
 Downloads "file.zip" from the specified URL.
 ```
+
+## Output
+![](z.jpg)
+![](x.jpg)
+![](c.jpg)
+![](v.jpg)
+
 ## Result
 This implies that you have acquired a foundational understanding of UNIX commands and have successfully carried out their execution.
